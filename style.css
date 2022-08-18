@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+
+.topbar{
+   
+    margin: 0%;
+    background-color: rgba(204, 10, 10, 0.856);
+    margin-top: 0;
+    padding: 0;
+    border: none;
+
+}
+
+.topbar h1{
+    margin: 0;
+    padding: 0;
+   color: rgb(97, 7, 7);
+   font-style: normal;
+}
+
+
+.blogarea{
+    width: 70%;
+    background-color: #f5f795;
+    
+    margin-top: -60%;
+    padding: 20px;
+    margin: 1%;
+    
+}
+
+.recentblogs{
+   width: 24%;
+   margin-right: 1%;
+   background-color: #eee068;
+   min-height: 40vh;
+   float: right;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   margin-top: 1%;
+}
+
+.blogstitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+    color: rgb(122, 19, 19);
+    margin-top: -10px;
+    margin-bottom: 0%;
+    margin-left: 2%;
+}
+
+.blogs{
+    
+    width: 70%;
+    background-color:rgb(197, 252, 116);
+    margin: left 0;
+    padding: 20px;
+}
+
+.blogspara{
+    float: right;
+    margin-left: 1%;
+    padding: 20px;
+    margin-top: -1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 70%;
+}
+
+.blogimg{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+
+.Recentblogs{
+    color: rgb(19, 16, 204);
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif ;
+    float: left;
+    text-decoration: none;
+    transition: ease-in-out 0.2s;
+}
+
+
+
